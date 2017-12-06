@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this assessment your will be building a SPA (Single Page Application). The frontend will be built using HTML, CSS and JavaScript. You will also be tasked with constructing your own backend API build with Ruby on Rails. The frontend application must communicate with the backend using JavaScript's native `fetch` function.
+In this project review you will be building a SPA (Single Page Application). The frontend will be built using HTML, CSS and JavaScript. You will also be tasked with constructing your own backend API build with Ruby on Rails. The frontend application must communicate with the backend using JavaScript's native `fetch` function.
 
 This is an exciting time, as this is will be a compilation piece of everything that you've learned in the program so far. As part of this, we want to stretch your autodidactic skills. You are going to learn how do create a full SPA, implement CRUD actions asynchronously, and build a dynamic application that shows off your skills with Javascript, can you learn these skills on your own?
 
